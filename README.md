@@ -1,3 +1,16 @@
+## Voxel51 Update Instructions
+
+Update `cfg/coco.names` to the following:
+
+```
+motorbike -> motorcycle
+aeroplane -> airplane
+sofa -> couch
+pottedplant -> potted plant
+diningtable -> dining table
+tvmonitor -> tv
+```
+
 ## Intro
 
 [![Build Status](https://travis-ci.org/thtrieu/darkflow.svg?branch=master)](https://travis-ci.org/thtrieu/darkflow) [![codecov](https://codecov.io/gh/thtrieu/darkflow/branch/master/graph/badge.svg)](https://codecov.io/gh/thtrieu/darkflow)
